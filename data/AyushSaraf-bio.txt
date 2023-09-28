@@ -1,0 +1,1 @@
+Ayush Saraf is a senior research engineer at Meta Reality Labs working on 3D, Video, and GenAI. He has worked on Image and 3D Photos Inpainting, Video Inpainting, Video Matting, NeRF, Dynamic NeRF, 3D Stylization.
